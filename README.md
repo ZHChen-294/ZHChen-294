@@ -29,7 +29,6 @@
   </a>
 </p>
 
-
 <hr/>
 
 <!-- ===== Biography ===== -->
@@ -37,7 +36,6 @@
 <p>
 I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, focusing on <b>AI in medicine</b>, <b>computational neuroscience</b>, and <b>medical image analysis</b>.
 </p>
-
 
 <hr/>
 
@@ -54,6 +52,7 @@ I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank
 <!-- Optional: last updated -->
 <p><sub>Last updated: 2025-11-01</sub></p>
 
+<hr/>
 
 <!-- ===== News ===== -->
 <h2>News</h2>
