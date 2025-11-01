@@ -9,14 +9,26 @@
 </p>
 
 <p>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">【Google Scholar】</a>
-  &nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">【Github】</a>
-  &nbsp;
-  <a href="https://www.researchgate.net/profile/YOUR_NAME" target="_blank">【ResearchGate】</a>
-  &nbsp;
-  <a href="https://YOUR_SITE" target="_blank">【Personal Homepage】</a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="18" style="vertical-align:middle;margin-right:4px;" />
+    Google Scholar
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/181717" width="18" style="vertical-align:middle;margin-right:4px;" />
+    GitHub
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://www.researchgate.net/profile/YOUR_NAME" target="_blank">
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="18" style="vertical-align:middle;margin-right:4px;" />
+    ResearchGate
+  </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://YOUR_SITE" target="_blank">
+    🌐 <span style="vertical-align:middle;">Personal Homepage</span>
+  </a>
 </p>
+
 
 <hr/>
 
