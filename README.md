@@ -14,12 +14,12 @@
     Google Scholar
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/ZHChen-294" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" width="18" style="vertical-align:middle;margin-right:4px;" />
     GitHub
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://www.researchgate.net/profile/YOUR_NAME" target="_blank">
+  <a href="https://www.researchgate.net/profile/Zhihong-Chen-19" target="_blank">
     <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="18" style="vertical-align:middle;margin-right:4px;" />
     ResearchGate
   </a>
