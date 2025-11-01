@@ -67,7 +67,7 @@ I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank
   <li><b>2024.3.20:</b> Our paper "<b>A colorectal coordinate-driven method for colorectum and colorectal cancer segmentation in conventional CT scans</b>" was accepted by <i><b>IEEE TNNLS</b></i>.</li>
   <li><b>2024.1.20:</b> Our paper "<b>Development of a machine learning-based radiomics signature for estimating breast cancer TME phenotypes and predicting anti-PD-1/PD-L1 immunotherapy response</b>" was accepted by <i><b>Breast Cancer Research</b></i>.</li>
   <li><b>2023.11.8:</b> Our paper "<b>Pathologic complete response prediction in breast cancer lesion segmentation and neoadjuvant therapy</b>" was accepted by <i><b>Frontiers in Medicine</b></i>.</li>
-  <li><b>2022.1.21:</b> Our engineering work with West China Hospital, "<b>Building Structured Patient Follow-up Records from Chinese Medical Records via Deep Learning</b>", was published in <i><b>BIC 2022</b></i>.</li>
+  <li><b>2022.1.21:</b> Our engineering work with <a href="https://www.wchscu.cn/public/index.html" target="_blank">West China Hospital</a>, "<b>Building Structured Patient Follow-up Records from Chinese Medical Records via Deep Learning</b>", was published in <i><b>BIC 2022</b></i>.</li>
   <li><b>2020.1.7:</b> Our paper "<b>Detecting abnormal brain regions in schizophrenia using structural MRI via machine learning</b>" was accepted by <i><b>Computational Intelligence and Neuroscience</b></i>.</li>
 </ul>
 
