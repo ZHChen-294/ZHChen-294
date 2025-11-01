@@ -42,11 +42,11 @@ I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank
 <!-- ===== Services ===== -->
 <h2>Services</h2>
 <ul>
-  <li>IEEE Transactions on Image Processing (IEEE TIP), Reviewer</li>
   <li>IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS), Reviewer</li>
-  <li>IEEE Transactions on Geoscience and Remote Sensing (IEEE TGRS), Reviewer</li>
-  <li>IEEE Transactions on Circuits and Systems for Video Technology (IEEE TCSVT), Reviewer</li>
-  <li>IEEE Transactions on Computational Imaging (IEEE TCI), Reviewer</li>
+  <li>IEEE Journal of Biomedical and Health Informatics (IEEE JBHI), Reviewer</li>
+  <li>European Journal of Radiology (EJR), Reviewer</li>
+  <li>Biomedical Signal Processing and Control (BSPC), Reviewer</li>
+  <li>Physical and Engineering Sciences in Medicine (PESM), Reviewer</li>
 </ul>
 
 <!-- Optional: last updated -->
