@@ -33,33 +33,10 @@
 <hr/>
 
 <!-- ===== Biography ===== -->
-<h2>Biography</h2>
+<h2>About me</h2>
 <p>
-I am currently working with the <a href="https://scai.swjtu.edu.cn/" target="_blank">School of Computing and Artificial Intelligence, Southwest Jiaotong University</a>, Chengdu, China. 
-I received the Ph.D. degree (advised by <a href="https://scholar.google.com/citations?user=YOUR_ADVISER_ID" target="_blank">Ting-Zhu Huang</a>) 
-from the <a href="https://math.uestc.edu.cn/" target="_blank">School of Mathematical Sciences, University of Electronic Science and Technology of China</a>, Chengdu, China, in 2022. 
-My current research interests include tensor modeling and computing, high-dimensional image processing, computer vision, and deep learning.
+I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, focusing on computational neuroscience, AI in medicine, and medical image analysis.
 </p>
-
-<hr/>
-
-<!-- ===== Research Interest ===== -->
-<h2>Research Interest</h2>
-<p>
-I work in the field of computer science and technology, with a specific focus on advancing methodologies for computational vision and intelligent image analysis. 
-My research bridges tensor modeling, high-performance computing, and multimodal learning for large-scale visual data processing and restoration. 
-Currently, I explore hybrid frameworks that integrate physics-driven models with data-driven AI to achieve robust, scalable, and interpretable imaging solutions. 
-My recent work centers on the following themes:
-</p>
-
-<ul>
-  <li>Efficient Image Reconstruction with Deep Priors</li>
-  <li>Cloud Removal in Remote Sensing Images</li>
-  <li>Unsupervised Image Deblurring with Uncertainty Modeling</li>
-  <li>Advanced Denoising Techniques for Hyperspectral Images</li>
-</ul>
-
-<hr/>
 
 <!-- ===== News ===== -->
 <h2>News</h2>
