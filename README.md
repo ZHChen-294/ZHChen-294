@@ -50,7 +50,7 @@ I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank
 </ul>
 
 <!-- Optional: last updated -->
-<p><sub>Last updated: 2025-11-01</sub></p>
+<p><sub>Last updated: 2025-06-01</sub></p>
 
 <hr/>
 
