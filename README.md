@@ -35,7 +35,7 @@
 <!-- ===== Biography ===== -->
 <h2>About me</h2>
 <p>
-I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, focusing on computational neuroscience, AI in medicine, and medical image analysis.
+I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, focusing on **AI in medicine**, **computational neuroscience**, and **medical image analysis**.
 </p>
 
 <!-- ===== News ===== -->
