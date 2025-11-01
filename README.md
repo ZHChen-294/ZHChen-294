@@ -24,8 +24,9 @@
     ResearchGate
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://YOUR_SITE" target="_blank">
-    🌐 <span style="vertical-align:middle;">Personal Homepage</span>
+  <a href="https://orcid.org/0000-0002-7056-1335" target="_blank">
+    <img src="https://cdn.simpleicons.org/orcid/00A33C" width="18" style="vertical-align:middle;margin-right:4px;" />
+    ORCID
   </a>
 </p>
 
