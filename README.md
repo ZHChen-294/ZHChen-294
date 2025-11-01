@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
+  <a href="https://scholar.google.com.hk/citations?user=qC3XjngAAAAJ&hl=zh-CN&oi=ao" target="_blank">
     <img src="https://cdn.simpleicons.org/googlescholar/4285F4" width="18" style="vertical-align:middle;margin-right:4px;" />
     Google Scholar
   </a>
