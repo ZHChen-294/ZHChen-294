@@ -38,14 +38,6 @@
 I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank">University of Electronic Science and Technology of China</a>, focusing on <b>AI in medicine</b>, <b>computational neuroscience</b>, and <b>medical image analysis</b>.
 </p>
 
-<!-- ===== News ===== -->
-<h2>News</h2>
-
-<ul>
-  <li><b>2024.7.1:</b> Two papers have been accepted by <b>European Conference on Computer Vision (ECCV) 2024</b>.</li>
-  <li><b>2024.1.11:</b> One paper “Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior” has been accepted by <b>IEEE Transactions on Computational Imaging</b>.</li>
-  <li><b>2023.7.11:</b> One paper “Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images” has been accepted by <b>IEEE Transactions on Geoscience and Remote Sensing</b>.</li>
-</ul>
 
 <hr/>
 
@@ -61,3 +53,13 @@ I am a Ph.D. candidate at the <a href="https://www.uestc.edu.cn/" target="_blank
 
 <!-- Optional: last updated -->
 <p><sub>Last updated: 2025-11-01</sub></p>
+
+
+<!-- ===== News ===== -->
+<h2>News</h2>
+
+<ul>
+  <li><b>2024.7.1:</b> Two papers have been accepted by <b>European Conference on Computer Vision (ECCV) 2024</b>.</li>
+  <li><b>2024.1.11:</b> One paper “Snapshot Compressive Imaging Using Domain-Factorized Deep Video Prior” has been accepted by <b>IEEE Transactions on Computational Imaging</b>.</li>
+  <li><b>2023.7.11:</b> One paper “Unsupervised Domain Factorization Network for Thick Cloud Removal of Multi-temporal Remotely Sensed Images” has been accepted by <b>IEEE Transactions on Geoscience and Remote Sensing</b>.</li>
+</ul>
