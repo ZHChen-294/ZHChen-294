@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <b>Email:</b> chenzhihong@163.com
+  <b>Email:</b> chenzhihong [AT] 163.com
 </p>
 
 <p>
