@@ -14,7 +14,7 @@
     Google Scholar
   </a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/ZHChen-294" target="_blank">
+  <a href="https://zhchen-294.github.io//" target="_blank">
     <img src="https://cdn.simpleicons.org/github/181717" width="18" style="vertical-align:middle;margin-right:4px;" />
     GitHub
   </a>
